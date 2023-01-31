@@ -1,0 +1,23 @@
+.header {
+    font-size: 48px;
+    font-weight: 700;
+    color: mediumseagreen;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.recipe {
+    font-size: 24px;
+    font-family: Verdana, sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+ul,
+ol {
+    font-size: 20px;
+    font-weight: 500;
+    background-color: blanchedalmond;
+}
